@@ -1,0 +1,1047 @@
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0030\.
+Genre: weather
+Start time: 2019-05-28 12:17:07.606000 End time: 2019-05-28 12:17:08.229000 Complete duration: 0:00:00.623000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00230.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0031\.
+Genre: weather
+Start time: 2019-05-28 12:17:08.925000 End time: 2019-05-28 12:17:09.578000 Complete duration: 0:00:00.653000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00231.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0032\.
+Genre: weather
+Start time: 2019-05-28 12:17:09.896000 End time: 2019-05-28 12:17:10.553000 Complete duration: 0:00:00.657000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00232.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0033\.
+Genre: weather
+Start time: 2019-05-28 12:17:11.261000 End time: 2019-05-28 12:17:11.907000 Complete duration: 0:00:00.646000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00233.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0034\ Klick .
+Genre: weather
+Start time: 2019-05-28 12:17:12.713000 End time: 2019-05-28 12:17:13.422000 Complete duration: 0:00:00.709000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00234.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0035\ Klick \prompt=WEATHER::WEATHER0036\.
+Genre: weather
+Start time: 2019-05-28 12:17:14.229000 End time: 2019-05-28 12:17:14.955000 Complete duration: 0:00:00.726000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00235.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0035\ Klick \prompt=WEATHER::WEATHER0037\.
+Genre: weather
+Start time: 2019-05-28 12:17:15.276000 End time: 2019-05-28 12:17:16.024000 Complete duration: 0:00:00.748000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00236.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0035\ Klick \prompt=WEATHER::WEATHER0038\.
+Genre: weather
+Start time: 2019-05-28 12:17:16.775000 End time: 2019-05-28 12:17:17.508000 Complete duration: 0:00:00.733000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00237.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0035\ Klick \prompt=WEATHER::WEATHER0039\.
+Genre: weather
+Start time: 2019-05-28 12:17:17.833000 End time: 2019-05-28 12:17:18.592000 Complete duration: 0:00:00.759000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00238.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0035\ Klick \prompt=WEATHER::WEATHER0040\.
+Genre: weather
+Start time: 2019-05-28 12:17:18.916000 End time: 2019-05-28 12:17:19.652000 Complete duration: 0:00:00.736000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00239.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0035\ Klick \prompt=WEATHER::WEATHER0041\.
+Genre: weather
+Start time: 2019-05-28 12:17:20.555000 End time: 2019-05-28 12:17:21.296000 Complete duration: 0:00:00.741000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00240.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0035\ Klick \prompt=WEATHER::WEATHER0042\.
+Genre: weather
+Start time: 2019-05-28 12:17:22.302000 End time: 2019-05-28 12:17:23.027000 Complete duration: 0:00:00.725000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00241.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0035\ Klick \prompt=WEATHER::WEATHER0043\.
+Genre: weather
+Start time: 2019-05-28 12:17:23.625000 End time: 2019-05-28 12:17:24.385000 Complete duration: 0:00:00.760000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00242.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0044\ Klick .
+Genre: weather
+Start time: 2019-05-28 12:17:25.393000 End time: 2019-05-28 12:17:26.085000 Complete duration: 0:00:00.692000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00243.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0045\.
+Genre: weather
+Start time: 2019-05-28 12:17:26.782000 End time: 2019-05-28 12:17:27.428000 Complete duration: 0:00:00.646000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00244.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0046\.
+Genre: weather
+Start time: 2019-05-28 12:17:28.029000 End time: 2019-05-28 12:17:28.683000 Complete duration: 0:00:00.654000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00245.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0047\.
+Genre: weather
+Start time: 2019-05-28 12:17:29.191000 End time: 2019-05-28 12:17:29.863000 Complete duration: 0:00:00.672000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00246.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0048\.
+Genre: weather
+Start time: 2019-05-28 12:17:30.177000 End time: 2019-05-28 12:17:30.850000 Complete duration: 0:00:00.673000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00247.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0049\.
+Genre: weather
+Start time: 2019-05-28 12:17:31.459000 End time: 2019-05-28 12:17:32.133000 Complete duration: 0:00:00.674000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00248.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0050\.
+Genre: weather
+Start time: 2019-05-28 12:17:32.350000 End time: 2019-05-28 12:17:33.015000 Complete duration: 0:00:00.665000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00249.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0051\.
+Genre: weather
+Start time: 2019-05-28 12:17:33.620000 End time: 2019-05-28 12:17:34.269000 Complete duration: 0:00:00.649000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00250.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0052\.
+Genre: weather
+Start time: 2019-05-28 12:17:34.975000 End time: 2019-05-28 12:17:35.621000 Complete duration: 0:00:00.646000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00251.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0053\.
+Genre: weather
+Start time: 2019-05-28 12:17:36.127000 End time: 2019-05-28 12:17:36.766000 Complete duration: 0:00:00.639000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00252.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0054\.
+Genre: weather
+Start time: 2019-05-28 12:17:37.275000 End time: 2019-05-28 12:17:37.939000 Complete duration: 0:00:00.664000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00253.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0055\.
+Genre: weather
+Start time: 2019-05-28 12:17:38.647000 End time: 2019-05-28 12:17:39.352000 Complete duration: 0:00:00.705000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00254.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0056\.
+Genre: weather
+Start time: 2019-05-28 12:17:39.954000 End time: 2019-05-28 12:17:40.612000 Complete duration: 0:00:00.658000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00255.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0057\.
+Genre: weather
+Start time: 2019-05-28 12:17:41.317000 End time: 2019-05-28 12:17:42.008000 Complete duration: 0:00:00.691000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00256.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0058\.
+Genre: weather
+Start time: 2019-05-28 12:17:42.713000 End time: 2019-05-28 12:17:43.361000 Complete duration: 0:00:00.648000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00257.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0059\.
+Genre: weather
+Start time: 2019-05-28 12:17:43.968000 End time: 2019-05-28 12:17:44.611000 Complete duration: 0:00:00.643000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00258.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0060\.
+Genre: weather
+Start time: 2019-05-28 12:17:44.825000 End time: 2019-05-28 12:17:45.483000 Complete duration: 0:00:00.658000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00259.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0061\.
+Genre: weather
+Start time: 2019-05-28 12:17:46.183000 End time: 2019-05-28 12:17:46.838000 Complete duration: 0:00:00.655000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00260.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0062\.
+Genre: weather
+Start time: 2019-05-28 12:17:47.055000 End time: 2019-05-28 12:17:47.719000 Complete duration: 0:00:00.664000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00261.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0063\.
+Genre: weather
+Start time: 2019-05-28 12:17:47.936000 End time: 2019-05-28 12:17:48.605000 Complete duration: 0:00:00.669000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00262.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0064\.
+Genre: weather
+Start time: 2019-05-28 12:17:48.824000 End time: 2019-05-28 12:17:49.490000 Complete duration: 0:00:00.666000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00263.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0065\.
+Genre: weather
+Start time: 2019-05-28 12:17:49.803000 End time: 2019-05-28 12:17:50.447000 Complete duration: 0:00:00.644000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00264.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0066\.
+Genre: weather
+Start time: 2019-05-28 12:17:50.657000 End time: 2019-05-28 12:17:51.308000 Complete duration: 0:00:00.651000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00265.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0067\.
+Genre: weather
+Start time: 2019-05-28 12:17:51.815000 End time: 2019-05-28 12:17:52.466000 Complete duration: 0:00:00.651000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00266.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0068\.
+Genre: weather
+Start time: 2019-05-28 12:17:52.782000 End time: 2019-05-28 12:17:53.399000 Complete duration: 0:00:00.617000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00267.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0069\.
+Genre: weather
+Start time: 2019-05-28 12:17:53.607000 End time: 2019-05-28 12:17:54.241000 Complete duration: 0:00:00.634000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00268.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0070\.
+Genre: weather
+Start time: 2019-05-28 12:17:54.947000 End time: 2019-05-28 12:17:55.600000 Complete duration: 0:00:00.653000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00269.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0071\.
+Genre: weather
+Start time: 2019-05-28 12:17:55.916000 End time: 2019-05-28 12:17:56.590000 Complete duration: 0:00:00.674000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00270.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0072\.
+Genre: weather
+Start time: 2019-05-28 12:17:56.907000 End time: 2019-05-28 12:17:57.557000 Complete duration: 0:00:00.650000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00271.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0073\.
+Genre: weather
+Start time: 2019-05-28 12:17:58.065000 End time: 2019-05-28 12:17:58.710000 Complete duration: 0:00:00.645000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00272.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0074\.
+Genre: weather
+Start time: 2019-05-28 12:17:59.218000 End time: 2019-05-28 12:17:59.875000 Complete duration: 0:00:00.657000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00273.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0075\.
+Genre: weather
+Start time: 2019-05-28 12:18:00.190000 End time: 2019-05-28 12:18:00.843000 Complete duration: 0:00:00.653000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00274.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0076\.
+Genre: weather
+Start time: 2019-05-28 12:18:01.450000 End time: 2019-05-28 12:18:02.118000 Complete duration: 0:00:00.668000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00275.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0077\.
+Genre: weather
+Start time: 2019-05-28 12:18:02.725000 End time: 2019-05-28 12:18:03.376000 Complete duration: 0:00:00.651000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00276.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0078\.
+Genre: weather
+Start time: 2019-05-28 12:18:03.985000 End time: 2019-05-28 12:18:04.632000 Complete duration: 0:00:00.647000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00277.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0079\.
+Genre: weather
+Start time: 2019-05-28 12:18:05.338000 End time: 2019-05-28 12:18:05.975000 Complete duration: 0:00:00.637000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00278.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0080\.
+Genre: weather
+Start time: 2019-05-28 12:18:06.190000 End time: 2019-05-28 12:18:06.829000 Complete duration: 0:00:00.639000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00279.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0081\.
+Genre: weather
+Start time: 2019-05-28 12:18:07.329000 End time: 2019-05-28 12:18:07.962000 Complete duration: 0:00:00.633000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00280.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0082\.
+Genre: weather
+Start time: 2019-05-28 12:18:08.670000 End time: 2019-05-28 12:18:09.320000 Complete duration: 0:00:00.650000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00281.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0083\.
+Genre: weather
+Start time: 2019-05-28 12:18:09.930000 End time: 2019-05-28 12:18:10.585000 Complete duration: 0:00:00.655000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00282.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0084\.
+Genre: weather
+Start time: 2019-05-28 12:18:10.897000 End time: 2019-05-28 12:18:11.568000 Complete duration: 0:00:00.671000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00283.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0085\.
+Genre: weather
+Start time: 2019-05-28 12:18:12.176000 End time: 2019-05-28 12:18:12.855000 Complete duration: 0:00:00.679000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00284.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0086\.
+Genre: weather
+Start time: 2019-05-28 12:18:13.068000 End time: 2019-05-28 12:18:13.761000 Complete duration: 0:00:00.693000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00285.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0087\.
+Genre: weather
+Start time: 2019-05-28 12:18:14.467000 End time: 2019-05-28 12:18:15.119000 Complete duration: 0:00:00.652000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00286.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0088\.
+Genre: weather
+Start time: 2019-05-28 12:18:15.327000 End time: 2019-05-28 12:18:15.988000 Complete duration: 0:00:00.661000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00287.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0089\.
+Genre: weather
+Start time: 2019-05-28 12:18:16.206000 End time: 2019-05-28 12:18:16.854000 Complete duration: 0:00:00.648000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00288.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0090\.
+Genre: weather
+Start time: 2019-05-28 12:18:17.458000 End time: 2019-05-28 12:18:18.126000 Complete duration: 0:00:00.668000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00289.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0091\.
+Genre: weather
+Start time: 2019-05-28 12:18:18.334000 End time: 2019-05-28 12:18:18.999000 Complete duration: 0:00:00.665000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00290.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0092\.
+Genre: weather
+Start time: 2019-05-28 12:18:19.508000 End time: 2019-05-28 12:18:20.144000 Complete duration: 0:00:00.636000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00291.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0093\.
+Genre: weather
+Start time: 2019-05-28 12:18:20.650000 End time: 2019-05-28 12:18:21.301000 Complete duration: 0:00:00.651000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00292.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0094\.
+Genre: weather
+Start time: 2019-05-28 12:18:21.996000 End time: 2019-05-28 12:18:22.659000 Complete duration: 0:00:00.663000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00293.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0095\.
+Genre: weather
+Start time: 2019-05-28 12:18:22.874000 End time: 2019-05-28 12:18:23.521000 Complete duration: 0:00:00.647000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00294.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0096\.
+Genre: weather
+Start time: 2019-05-28 12:18:24.114000 End time: 2019-05-28 12:18:24.775000 Complete duration: 0:00:00.661000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00295.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0097\: Klick .
+Genre: weather
+Start time: 2019-05-28 12:18:25.085000 End time: 2019-05-28 12:18:25.749000 Complete duration: 0:00:00.664000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00296.pcm
+
+INPUT GED: \tn=WEATHER\Am Klick \prompt=WEATHER::WEATHER0099\ Klick und Klick .
+Genre: weather
+Start time: 2019-05-28 12:18:26.458000 End time: 2019-05-28 12:18:27.288000 Complete duration: 0:00:00.830000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00297.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0100\.
+Genre: weather
+Start time: 2019-05-28 12:18:28.397000 End time: 2019-05-28 12:18:29.065000 Complete duration: 0:00:00.668000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00298.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0101\.
+Genre: weather
+Start time: 2019-05-28 12:18:29.564000 End time: 2019-05-28 12:18:30.238000 Complete duration: 0:00:00.674000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00299.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0102\.
+Genre: weather
+Start time: 2019-05-28 12:18:30.842000 End time: 2019-05-28 12:18:31.496000 Complete duration: 0:00:00.654000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00300.pcm
+
+INPUT GED: \tn=WEATHER\Am Klick \prompt=WEATHER::WEATHER0103\ Klick .
+Genre: weather
+Start time: 2019-05-28 12:18:31.909000 End time: 2019-05-28 12:18:32.604000 Complete duration: 0:00:00.695000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00301.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0104\.
+Genre: weather
+Start time: 2019-05-28 12:18:33.202000 End time: 2019-05-28 12:18:33.867000 Complete duration: 0:00:00.665000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00302.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0105\.
+Genre: weather
+Start time: 2019-05-28 12:18:34.086000 End time: 2019-05-28 12:18:34.741000 Complete duration: 0:00:00.655000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00303.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0106\.
+Genre: weather
+Start time: 2019-05-28 12:18:35.057000 End time: 2019-05-28 12:18:35.731000 Complete duration: 0:00:00.674000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00304.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0107\.
+Genre: weather
+Start time: 2019-05-28 12:18:36.335000 End time: 2019-05-28 12:18:37.002000 Complete duration: 0:00:00.667000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00305.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0108\.
+Genre: weather
+Start time: 2019-05-28 12:18:37.608000 End time: 2019-05-28 12:18:38.243000 Complete duration: 0:00:00.635000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00306.pcm
+
+INPUT GED: \tn=WEATHER\\prompt=WEATHER::WEATHER0109\.
+Genre: weather
+Start time: 2019-05-28 12:18:38.750000 End time: 2019-05-28 12:18:39.401000 Complete duration: 0:00:00.651000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedweatherregression_00307.pcm
+
+
+c:\_projects\mib2plusconnected\p4_dev\_tools\cloud>if not "0" == "0" set _ERROR_=0  
+
+c:\_projects\mib2plusconnected\p4_dev\_tools\cloud>call python Audi_Cloud_TTS_tester.py -i"..\..\tts_regression\GED_Ina\impact_test\regression_test_ged.txt" -s".\_ncs_credentials\Audi_Azure_CVT.json" -r..\..\tts_regression\GED_Ina\baseline\vocs7.3.3\ 
+c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT
+INPUT GED: \tn=TRAVEL\Neuheiten auf der CES Las Vegas. Die Technik-Messe CES in Las Vegas geht am Mittwoch mit ersten Neuheiten-Vorstellungen an den Start. Im Mittelpunkt stehen selbstfahrende Autos und vernetzte Technik mit Verbindung zu künstlicher Intelligenz.
+Genre: poi_details
+Start time: 2019-05-28 12:18:40.196000 End time: 2019-05-28 12:18:41.469000 Complete duration: 0:00:01.273000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression2.pcm
+
+INPUT GED: \tn=TRAVEL\Verwände das Mobiltelefon
+Genre: poi_details
+Start time: 2019-05-28 12:18:44.798000 End time: 2019-05-28 12:18:45.669000 Complete duration: 0:00:00.871000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression4.pcm
+
+INPUT GED: \tn=TRAVEL\Fahre mich zum Italiener
+Genre: poi_details
+Start time: 2019-05-28 12:18:46.373000 End time: 2019-05-28 12:18:47.174000 Complete duration: 0:00:00.801000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression5.pcm
+
+INPUT GED: \tn=TRAVEL\Donald Trump.
+Genre: poi_details
+Start time: 2019-05-28 12:18:47.872000 End time: 2019-05-28 12:18:48.574000 Complete duration: 0:00:00.702000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression6.pcm
+
+INPUT GED: \tn=TRAVEL\Christine Lagardes
+Genre: poi_details
+Start time: 2019-05-28 12:18:49.077000 End time: 2019-05-28 12:18:49.825000 Complete duration: 0:00:00.748000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression7.pcm
+
+INPUT GED: \tn=TRAVEL\Ivanka Trump.
+Genre: poi_details
+Start time: 2019-05-28 12:18:50.429000 End time: 2019-05-28 12:18:51.167000 Complete duration: 0:00:00.738000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression8.pcm
+
+INPUT GED: \tn=TRAVEL\Melania Trump.
+Genre: poi_details
+Start time: 2019-05-28 12:18:51.476000 End time: 2019-05-28 12:18:52.177000 Complete duration: 0:00:00.701000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression9.pcm
+
+INPUT GED: \tn=TRAVEL\Trump.
+Genre: poi_details
+Start time: 2019-05-28 12:18:52.389000 End time: 2019-05-28 12:18:53.047000 Complete duration: 0:00:00.658000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression10.pcm
+
+INPUT GED: \tn=TRAVEL\IWF-Chefin Christine Lagarde will ihre Arbeit fortsetzen.
+Genre: poi_details
+Start time: 2019-05-28 12:18:53.343000 End time: 2019-05-28 12:18:54.361000 Complete duration: 0:00:01.018000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression11.pcm
+
+INPUT GED: \tn=TRAVEL\Christine Lagarde
+Genre: poi_details
+Start time: 2019-05-28 12:18:55.562000 End time: 2019-05-28 12:18:56.327000 Complete duration: 0:00:00.765000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression12.pcm
+
+INPUT GED: \tn=TRAVEL\Lagarde
+Genre: poi_details
+Start time: 2019-05-28 12:18:56.541000 End time: 2019-05-28 12:18:57.211000 Complete duration: 0:00:00.670000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression13.pcm
+
+INPUT GED: \tn=TRAVEL\Christine
+Genre: poi_details
+Start time: 2019-05-28 12:18:57.421000 End time: 2019-05-28 12:18:58.131000 Complete duration: 0:00:00.710000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression14.pcm
+
+INPUT GED: \tn=TRAVEL\von Lagarde
+Genre: poi_details
+Start time: 2019-05-28 12:18:58.342000 End time: 2019-05-28 12:18:59.053000 Complete duration: 0:00:00.711000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression15.pcm
+
+INPUT GED: \tn=TRAVEL\Zsa Zsa Gabor
+Genre: poi_details
+Start time: 2019-05-28 12:18:59.459000 End time: 2019-05-28 12:19:00.160000 Complete duration: 0:00:00.701000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression16.pcm
+
+INPUT GED: \tn=TRAVEL\Softbank
+Genre: poi_details
+Start time: 2019-05-28 12:19:01.063000 End time: 2019-05-28 12:19:01.741000 Complete duration: 0:00:00.678000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression17.pcm
+
+INPUT GED: \tn=TRAVEL\Red Bull Salzburg
+Genre: poi_details
+Start time: 2019-05-28 12:19:01.954000 End time: 2019-05-28 12:19:02.705000 Complete duration: 0:00:00.751000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression18.pcm
+
+INPUT GED: \tn=TRAVEL\Liverpool
+Genre: poi_details
+Start time: 2019-05-28 12:19:03.310000 End time: 2019-05-28 12:19:03.993000 Complete duration: 0:00:00.683000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression19.pcm
+
+INPUT GED: ncsoovtestcase
+Genre: poi_details
+Start time: 2019-05-28 12:19:04.203000 End time: 2019-05-28 12:19:04.851000 Complete duration: 0:00:00.648000
+FAILURE:
+  c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\baseline\vocs7.3.3\gednewsregression20_ref.pcm
+  c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression20.pcm
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression20.pcm
+
+INPUT GED: \tn=TRAVEL\Theresa May
+Genre: poi_details
+Start time: 2019-05-28 12:19:05.057000 End time: 2019-05-28 12:19:06.375000 Complete duration: 0:00:01.318000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression21.pcm
+
+INPUT GED: \tn=TRAVEL\Brexit
+Genre: poi_details
+Start time: 2019-05-28 12:19:06.776000 End time: 2019-05-28 12:19:07.486000 Complete duration: 0:00:00.710000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression22.pcm
+
+INPUT GED: \tn=TRAVEL\GM
+Genre: poi_details
+Start time: 2019-05-28 12:19:07.793000 End time: 2019-05-28 12:19:08.459000 Complete duration: 0:00:00.666000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression23.pcm
+
+INPUT GED: \tn=TRAVEL\PSA
+Genre: poi_details
+Start time: 2019-05-28 12:19:08.668000 End time: 2019-05-28 12:19:10.007000 Complete duration: 0:00:01.339000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression24.pcm
+
+INPUT GED: \tn=TRAVEL\General Motors
+Genre: poi_details
+Start time: 2019-05-28 12:19:10.410000 End time: 2019-05-28 12:19:11.137000 Complete duration: 0:00:00.727000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression25.pcm
+
+INPUT GED: \tn=TRAVEL\PSA Peugeot Citroën
+Genre: poi_details
+Start time: 2019-05-28 12:19:11.930000 End time: 2019-05-28 12:19:12.689000 Complete duration: 0:00:00.759000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression26.pcm
+
+INPUT GED: \tn=TRAVEL\Vauxhall
+Genre: poi_details
+Start time: 2019-05-28 12:19:12.991000 End time: 2019-05-28 12:19:13.649000 Complete duration: 0:00:00.658000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression27.pcm
+
+INPUT GED: \tn=TRAVEL\Joseph Kellogg
+Genre: poi_details
+Start time: 2019-05-28 12:19:14.044000 End time: 2019-05-28 12:19:14.756000 Complete duration: 0:00:00.712000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression28.pcm
+
+INPUT GED: \tn=TRAVEL\Washington Post
+Genre: poi_details
+Start time: 2019-05-28 12:19:15.268000 End time: 2019-05-28 12:19:15.962000 Complete duration: 0:00:00.694000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression29.pcm
+
+INPUT GED: \tn=TRAVEL\Barack Obama
+Genre: poi_details
+Start time: 2019-05-28 12:19:16.175000 End time: 2019-05-28 12:19:16.902000 Complete duration: 0:00:00.727000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression30.pcm
+
+INPUT GED: \tn=TRAVEL\IP-Adresse
+Genre: poi_details
+Start time: 2019-05-28 12:19:17.306000 End time: 2019-05-28 12:19:18.014000 Complete duration: 0:00:00.708000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression31.pcm
+
+INPUT GED: \tn=TRAVEL\CNN
+Genre: poi_details
+Start time: 2019-05-28 12:19:18.521000 End time: 2019-05-28 12:19:19.200000 Complete duration: 0:00:00.679000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression32.pcm
+
+INPUT GED: \tn=TRAVEL\Yale
+Genre: poi_details
+Start time: 2019-05-28 12:19:19.608000 End time: 2019-05-28 12:19:20.256000 Complete duration: 0:00:00.648000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression33.pcm
+
+INPUT GED: \tn=TRAVEL\Piëchs
+Genre: poi_details
+Start time: 2019-05-28 12:19:20.556000 End time: 2019-05-28 12:19:21.231000 Complete duration: 0:00:00.675000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression34.pcm
+
+INPUT GED: \tn=TRAVEL\Stephan Weil
+Genre: poi_details
+Start time: 2019-05-28 12:19:21.536000 End time: 2019-05-28 12:19:22.274000 Complete duration: 0:00:00.738000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression35.pcm
+
+INPUT GED: \tn=TRAVEL\Britischen
+Genre: poi_details
+Start time: 2019-05-28 12:19:22.678000 End time: 2019-05-28 12:19:23.364000 Complete duration: 0:00:00.686000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression36.pcm
+
+INPUT GED: \tn=TRAVEL\Motorenhersteller
+Genre: poi_details
+Start time: 2019-05-28 12:19:23.565000 End time: 2019-05-28 12:19:24.320000 Complete duration: 0:00:00.755000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression37.pcm
+
+INPUT GED: \tn=TRAVEL\Aufzüge
+Genre: poi_details
+Start time: 2019-05-28 12:19:24.827000 End time: 2019-05-28 12:19:25.573000 Complete duration: 0:00:00.746000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression38.pcm
+
+INPUT GED: \tn=TRAVEL\Bowling-Area
+Genre: poi_details
+Start time: 2019-05-28 12:19:25.779000 End time: 2019-05-28 12:19:26.451000 Complete duration: 0:00:00.672000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression40.pcm
+
+INPUT GED: \tn=TRAVEL\Bowling-Area
+Genre: poi_details
+Start time: 2019-05-28 12:19:26.858000 End time: 2019-05-28 12:19:27.570000 Complete duration: 0:00:00.712000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression40.pcm
+
+INPUT GED: \tn=TWITTER\Bowling-Area
+Genre: twitter
+Start time: 2019-05-28 12:19:27.973000 End time: 2019-05-28 12:19:28.650000 Complete duration: 0:00:00.677000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression40.pcm
+
+INPUT GED: \tn=WEATHER\Bowling-Area
+Genre: weather
+Start time: 2019-05-28 12:19:29.062000 End time: 2019-05-28 12:19:29.688000 Complete duration: 0:00:00.626000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression40.pcm
+
+INPUT GED: \tn=TRAVEL\La La Land
+Genre: poi_details
+Start time: 2019-05-28 12:19:30.100000 End time: 2019-05-28 12:19:30.782000 Complete duration: 0:00:00.682000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression41.pcm
+
+INPUT GED: \tn=TRAVEL\Cheryl Boone Isaacs
+Genre: poi_details
+Start time: 2019-05-28 12:19:31.194000 End time: 2019-05-28 12:19:31.900000 Complete duration: 0:00:00.706000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression42.pcm
+
+INPUT GED: \tn=TRAVEL\Variety
+Genre: poi_details
+Start time: 2019-05-28 12:19:32.403000 End time: 2019-05-28 12:19:33.077000 Complete duration: 0:00:00.674000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednewsregression43.pcm
+
+INPUT GED: \tn=TRAVEL\Syrien
+Genre: poi_details
+Start time: 2019-05-28 12:19:33.288000 End time: 2019-05-28 12:19:33.978000 Complete duration: 0:00:00.690000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\Syrien.pcm
+
+INPUT GED: \tn=TRAVEL\Mo-So
+Genre: poi_details
+Start time: 2019-05-28 12:19:34.288000 End time: 2019-05-28 12:19:35.046000 Complete duration: 0:00:00.758000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days1.pcm
+
+INPUT GED: \tn=TRAVEL\Mo-So
+Genre: poi_details
+Start time: 2019-05-28 12:19:35.262000 End time: 2019-05-28 12:19:36.012000 Complete duration: 0:00:00.750000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days1.pcm
+
+INPUT GED: \tn=TWITTER\Mo-So
+Genre: twitter
+Start time: 2019-05-28 12:19:36.224000 End time: 2019-05-28 12:19:36.990000 Complete duration: 0:00:00.766000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days1.pcm
+
+INPUT GED: \tn=WEATHER\Mo-So
+Genre: weather
+Start time: 2019-05-28 12:19:37.597000 End time: 2019-05-28 12:19:38.319000 Complete duration: 0:00:00.722000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days1.pcm
+
+INPUT GED: \tn=TRAVEL\Di.-Fr.
+Genre: poi_details
+Start time: 2019-05-28 12:19:38.929000 End time: 2019-05-28 12:19:39.703000 Complete duration: 0:00:00.774000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days2.pcm
+
+INPUT GED: \tn=TRAVEL\Di.-Fr.
+Genre: poi_details
+Start time: 2019-05-28 12:19:40.317000 End time: 2019-05-28 12:19:41.076000 Complete duration: 0:00:00.759000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days2.pcm
+
+INPUT GED: \tn=TWITTER\Di.-Fr.
+Genre: twitter
+Start time: 2019-05-28 12:19:41.391000 End time: 2019-05-28 12:19:42.162000 Complete duration: 0:00:00.771000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days2.pcm
+
+INPUT GED: \tn=WEATHER\Di.-Fr.
+Genre: weather
+Start time: 2019-05-28 12:19:42.776000 End time: 2019-05-28 12:19:43.501000 Complete duration: 0:00:00.725000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days2.pcm
+
+INPUT GED: \tn=TRAVEL\Di.- Fr.:
+Genre: poi_details
+Start time: 2019-05-28 12:19:43.820000 End time: 2019-05-28 12:19:44.604000 Complete duration: 0:00:00.784000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days3.pcm
+
+INPUT GED: \tn=TRAVEL\Di.- Fr.:
+Genre: poi_details
+Start time: 2019-05-28 12:19:44.908000 End time: 2019-05-28 12:19:45.708000 Complete duration: 0:00:00.800000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days3.pcm
+
+INPUT GED: \tn=WEATHER\Di.- Fr.:
+Genre: weather
+Start time: 2019-05-28 12:19:46.321000 End time: 2019-05-28 12:19:47.045000 Complete duration: 0:00:00.724000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days3.pcm
+
+INPUT GED: \tn=TRAVEL\Di.- Fr.:
+Genre: poi_details
+Start time: 2019-05-28 12:19:47.656000 End time: 2019-05-28 12:19:48.452000 Complete duration: 0:00:00.796000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days4.pcm
+
+INPUT GED: \tn=TRAVEL\Di.- Fr.:
+Genre: poi_details
+Start time: 2019-05-28 12:19:48.774000 End time: 2019-05-28 12:19:49.570000 Complete duration: 0:00:00.796000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days4.pcm
+
+INPUT GED: \tn=WEATHER\Di.- Fr.:
+Genre: weather
+Start time: 2019-05-28 12:19:49.979000 End time: 2019-05-28 12:19:50.718000 Complete duration: 0:00:00.739000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\days4.pcm
+
+INPUT GED: \tn=TRAVEL\Die Öffnungszeiten sind: Mo-Do: 10:00-22:00, Fr-Sa: 10:00-23:00, So: 10:00-22:00 . 
+Genre: poi_details
+Start time: 2019-05-28 12:19:51.035000 End time: 2019-05-28 12:19:51.903000 Complete duration: 0:00:00.868000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\So_openinghours.pcm
+
+INPUT GED: \tn=TRAVEL\Die Öffnungszeiten sind: Mo-Do: 10:00-22:00, Fr-Sa: 10:00-23:00, So: 10:00-22:00 . 
+Genre: poi_details
+Start time: 2019-05-28 12:19:52.833000 End time: 2019-05-28 12:19:53.687000 Complete duration: 0:00:00.854000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\So_openinghours.pcm
+
+INPUT GED: \tn=TWITTER\Die Öffnungszeiten sind: Mo-Do: 10:00-22:00, Fr-Sa: 10:00-23:00, So: 10:00-22:00 . 
+Genre: twitter
+Start time: 2019-05-28 12:19:58.191000 End time: 2019-05-28 12:19:59.128000 Complete duration: 0:00:00.937000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\So_openinghours.pcm
+
+INPUT GED: \tn=WEATHER\Die Öffnungszeiten sind: Mo-Do: 10:00-22:00, Fr-Sa: 10:00-23:00, So: 10:00-22:00 . 
+Genre: weather
+Start time: 2019-05-28 12:20:02.134000 End time: 2019-05-28 12:20:02.973000 Complete duration: 0:00:00.839000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\So_openinghours.pcm
+
+INPUT GED: \tn=TRAVEL\Oksana Alexandrowna Potschepa
+Genre: poi_details
+Start time: 2019-05-28 12:20:04.992000 End time: 2019-05-28 12:20:05.833000 Complete duration: 0:00:00.841000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\oksana.pcm
+
+INPUT GED: \tn=TRAVEL\Italienisch
+Genre: poi_details
+Start time: 2019-05-28 12:20:06.756000 End time: 2019-05-28 12:20:07.466000 Complete duration: 0:00:00.710000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\Italienisch.pcm
+
+INPUT GED: \tn=TRAVEL\Italienisch
+Genre: poi_details
+Start time: 2019-05-28 12:20:07.871000 End time: 2019-05-28 12:20:08.590000 Complete duration: 0:00:00.719000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\Italienisch.pcm
+
+INPUT GED: \tn=TWITTER\Italienisch
+Genre: twitter
+Start time: 2019-05-28 12:20:08.995000 End time: 2019-05-28 12:20:09.679000 Complete duration: 0:00:00.684000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\Italienisch.pcm
+
+INPUT GED: \tn=WEATHER\Italienisch
+Genre: weather
+Start time: 2019-05-28 12:20:10.094000 End time: 2019-05-28 12:20:10.776000 Complete duration: 0:00:00.682000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\Italienisch.pcm
+
+INPUT GED: \tn=TRAVEL\Oprah Winfrey schließt Präsidentschaftskandidatur 2020 nicht aus. Die US-Medienunternehmerin Oprah Winfrey hat eine Präsidentschaftskandidatur im Jahr 2020 nicht ausgeschlossen.
+Genre: poi_details
+Start time: 2019-05-28 12:20:10.993000 End time: 2019-05-28 12:20:12.437000 Complete duration: 0:00:01.444000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\oprah.pcm
+
+INPUT GED: \tn=TRAVEL\\tn=TTS-UNIT\1,5 V
+Genre: poi_details
+Start time: 2019-05-28 12:20:13.168000 End time: 2019-05-28 12:20:13.943000 Complete duration: 0:00:00.775000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression1.pcm
+
+INPUT GED: \tn=TRAVEL\\tn=TTS-UNIT\26 V
+Genre: poi_details
+Start time: 2019-05-28 12:20:14.548000 End time: 2019-05-28 12:20:15.750000 Complete duration: 0:00:01.202000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression2.pcm
+
+INPUT GED: \tn=TRAVEL\\tn=TTS-UNIT\-5 V
+Genre: poi_details
+Start time: 2019-05-28 12:20:16.558000 End time: 2019-05-28 12:20:17.306000 Complete duration: 0:00:00.748000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression3.pcm
+
+INPUT GED: \tn=TRAVEL\\tn=TTS-UNIT\-5.5 V
+Genre: poi_details
+Start time: 2019-05-28 12:20:17.812000 End time: 2019-05-28 12:20:18.598000 Complete duration: 0:00:00.786000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression4.pcm
+
+INPUT GED: \tn=TRAVEL\\tn=TTS-UNIT\1,5 A
+Genre: poi_details
+Start time: 2019-05-28 12:20:19.301000 End time: 2019-05-28 12:20:20.071000 Complete duration: 0:00:00.770000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression5.pcm
+
+INPUT GED: \tn=TRAVEL\\tn=TTS-UNIT\26 A
+Genre: poi_details
+Start time: 2019-05-28 12:20:20.286000 End time: 2019-05-28 12:20:21.117000 Complete duration: 0:00:00.831000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression6.pcm
+
+INPUT GED: \tn=TRAVEL\\tn=TTS-UNIT\-5 A
+Genre: poi_details
+Start time: 2019-05-28 12:20:21.721000 End time: 2019-05-28 12:20:22.502000 Complete duration: 0:00:00.781000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression7.pcm
+
+INPUT GED: \tn=TRAVEL\\tn=TTS-UNIT\-5.5 A
+Genre: poi_details
+Start time: 2019-05-28 12:20:22.703000 End time: 2019-05-28 12:20:23.510000 Complete duration: 0:00:00.807000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression8.pcm
+
+INPUT GED: \tn=TRAVEL\Frankreichs neugewählter Präsident Emmanuel Macron tritt sein Amt am kommenden Sonntag an.
+Genre: poi_details
+Start time: 2019-05-28 12:20:23.810000 End time: 2019-05-28 12:20:25.046000 Complete duration: 0:00:01.236000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\EmmanuelMacron.pcm
+
+INPUT GED: \tn=TWITTER\Frankreichs neugewählter Präsident Emmanuel Macron tritt sein Amt am kommenden Sonntag an.
+Genre: twitter
+Start time: 2019-05-28 12:20:26.658000 End time: 2019-05-28 12:20:27.946000 Complete duration: 0:00:01.288000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\EmmanuelMacron1.pcm
+
+INPUT GED: \tn=WEATHER\Wetter im Standortumkreis\pause=200\Heute ist es leicht bewölkt.\pause=200\Die Temperaturen liegen zwischen \tn=TEMPERATURE\17 °C\tn=normal\ und \tn=TEMPERATURE\30 °C\tn=normal\.\pause=200\Warnung: Gewittergefahr.\pause=200\Die Regenwahrscheinlichkeit beträgt 2%.\pause=200\Der Wind weht mit 9Kilometer pro Stunde aus nordwestlicher Richtung.
+Genre: weather
+Start time: 2019-05-28 12:20:29.553000 End time: 2019-05-28 12:20:30.394000 Complete duration: 0:00:00.841000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\temperature_target.pcm
+
+INPUT GED: \tn=TRAVEL\Das Gesetz gegen Kinderehen, die Abschaffung des "Majestätsbeleidigungs-Paragrafen" sowie.
+Genre: poi_details
+Start time: 2019-05-28 12:20:34.269000 End time: 2019-05-28 12:20:35.287000 Complete duration: 0:00:01.018000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gednews_words.pcm
+
+INPUT GED: \tn=TRAVEL\CineStar
+Genre: poi_details
+Start time: 2019-05-28 12:20:36.890000 End time: 2019-05-28 12:20:37.597000 Complete duration: 0:00:00.707000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\gedtravelregression10.pcm
+
+INPUT GED: \tn=TRAVEL\Bei Aral kostet ein Liter Diesel\pause=250\ \tn=currency\1.08 EUR\tn=TRAVEL\ .\pause=250\ein Liter Super E10\pause=250\ \tn=currency\1.27 EUR\tn=TRAVEL\ .\pause=250\ein Liter Super\pause=250\ \tn=currency\1.29 EUR\tn=TRAVEL\ .\pause=250\ein Liter Super Plus\pause=250\ \tn=currency\1.37 EUR\tn=TRAVEL\ .\pause=250\AdBlue/DEF nicht verfügbar
+Genre: poi_details
+Start time: 2019-05-28 12:20:37.808000 End time: 2019-05-28 12:20:39.203000 Complete duration: 0:00:01.395000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\no_output.pcm
+
+INPUT GED: \tn=WEATHER\Wetter im Standortumkreis\pause=200\Heute ist es leicht bewölkt.\pause=200\Die Temperaturen liegen zwischen \tn=TEMPERATURE\13 °C\tn=WEATHER\ und \tn=TEMPERATURE\29 °C\tn=WEATHER\.\pause=200\Die Regenwahrscheinlichkeit beträgt 3%.\pause=200\Der Wind weht mit 13Kilometer pro Stunde aus westlicher Richtung.
+Genre: weather
+Start time: 2019-05-28 12:20:42.324000 End time: 2019-05-28 12:20:43.206000 Complete duration: 0:00:00.882000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\temp.pcm
+
+INPUT GED: \tn=TRAVEL\Fußballstar Ronaldo sieht sich als "Genie". Die Vorwürfe wegen Steuerbetrugs kratzen nicht am Ego von Fußball-Superstar Cristiano Ronaldo - im Gegenteil.
+Genre: poi_details
+Start time: 2019-05-28 12:20:44.037000 End time: 2019-05-28 12:20:45.122000 Complete duration: 0:00:01.085000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\fussballsuperstar.pcm
+
+INPUT GED: \tn=TRAVEL\Hacker
+Genre: poi_details
+Start time: 2019-05-28 12:20:47.721000 End time: 2019-05-28 12:20:48.383000 Complete duration: 0:00:00.662000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\hacker.pcm
+
+INPUT GED: \tn=TRAVEL\Mehrfach haben Hacker den Bundestag attackiert und massenhaft interne Dokumente gestohlen. Bislang sind die Daten aber nirgendwo aufgetaucht.
+Genre: poi_details
+Start time: 2019-05-28 12:20:48.687000 End time: 2019-05-28 12:20:49.996000 Complete duration: 0:00:01.309000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\hacker1.pcm
+
+INPUT GED: \tn=TRAVEL\Hacker-Angriffe auf Bundestag - Warten auf das Leak 
+Genre: poi_details
+Start time: 2019-05-28 12:20:52.206000 End time: 2019-05-28 12:20:53.130000 Complete duration: 0:00:00.924000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\hacker2.pcm
+
+INPUT GED: \tn=TRAVEL\Hacker-Angriff
+Genre: poi_details
+Start time: 2019-05-28 12:20:53.529000 End time: 2019-05-28 12:20:54.250000 Complete duration: 0:00:00.721000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\hacker3.pcm
+
+INPUT GED: \tn=NEWS\Bericht: Hartz-IV-Bezieher immer länger arbeitslos
+Genre: news
+Start time: 2019-05-28 12:20:54.462000 End time: 2019-05-28 12:20:55.303000 Complete duration: 0:00:00.841000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\hartzIV.pcm
+
+INPUT GED: \tn=TRAVEL\SUV
+Genre: poi_details
+Start time: 2019-05-28 12:20:55.719000 End time: 2019-05-28 12:20:56.419000 Complete duration: 0:00:00.700000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\SUV.pcm
+
+INPUT GED: \tn=TRAVEL\SUV's
+Genre: poi_details
+Start time: 2019-05-28 12:20:56.631000 End time: 2019-05-28 12:20:57.333000 Complete duration: 0:00:00.702000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\SUVs.pcm
+
+INPUT GED: \tn=NEWS\Aru liegt auf Platz drei (+0:14 Minuten).
+Genre: news
+Start time: 2019-05-28 12:20:57.545000 End time: 2019-05-28 12:20:58.497000 Complete duration: 0:00:00.952000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\timereadout.pcm
+
+INPUT GED: \tn=TRAVEL\Konta bekommt es im zweiten Grand-Slam-Halbfinale ihrer Karriere nach den Australian Open 2016 mit der fünfmaligen Siegerin Venus Williams (USA) zu tun.
+Genre: poi_details
+Start time: 2019-05-28 12:20:59.603000 End time: 2019-05-28 12:21:01.218000 Complete duration: 0:00:01.615000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\australianopen.pcm
+
+INPUT MNC: \tn=NEWS\票价: \tn=currency\0 RMB\tn=NEWS\.地址: 北京 海淀区 北京市海淀区中关村创业大街3棟言几又二层.
+Genre: news
+Start time: 2019-05-28 13:21:28.856000 End time: 2019-05-28 13:21:29.441000 Complete duration: 0:00:00.585000
+FAILURE:
+  c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\MNC_Tian-Tian\baseline\Audi_Azure_CVT_Shanghai\mncrmb_ref.pcm
+  c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\MNC_Tian-Tian\impact_test\..\baseline\Audi_Azure_CVT\mncrmb.pcm
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\MNC_Tian-Tian\impact_test\..\baseline\Audi_Azure_CVT\mncrmb.pcm
+
+
+INPUT GED: \tn=TRAVEL\Spitzenplatz bei YouTube
+Genre: poi_details
+Start time: 2019-05-28 12:21:03.920000 End time: 2019-05-28 12:21:04.654000 Complete duration: 0:00:00.734000
+SUCCESS
+Filename: c:\_projects\mib2plusconnected\p4_dev\_tools\cloud\..\..\tts_regression\GED_Ina\impact_test\..\baseline\Audi_Azure_CVT\youtube.pcm
